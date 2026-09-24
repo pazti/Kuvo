@@ -8,7 +8,8 @@ This folder contains the imported high-fidelity mobile prototype and the working
 - [Inspiration notes](INSPIRATION.md) — neo-brutalist references translated into Kuvo rules
 - [Logo concepts](LOGO_CONCEPTS.md) — simple mark directions and the recommended option
 - [High-fidelity prototype](high-fidelity-prototype/README.md) — the imported React/Vite mobile flow
-- [Recommended logo mark](logo/kuvo-pulse-mark.svg) — a scalable first-pass SVG asset
+- [Recommended logo mark — SVG](logo/kuvo-pulse-mark.svg) — the scalable source asset
+- [Recommended logo mark — PNG](logo/kuvo-pulse-mark.png) — a transparent 512px export
 
 ## Direction
 
