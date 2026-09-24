@@ -24,6 +24,7 @@ Own the communication layer for the next generation of Nigerians — starting wh
 - [Branding](docs/05-BRANDING.md)
 - [Team & Roles](docs/06-TEAM_ROLES.md)
 - [Contributing](docs/07-CONTRIBUTING.md)
+- [UI/UX Design](ui-ux-design/README.md)
 
 ## Planned Repository Areas
 

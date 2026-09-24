@@ -1,0 +1,7 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Kuvo pulse mark</title>
+  <desc id="desc">A bright green speech bubble with a rising pulse line and a black offset shadow.</desc>
+  <path d="M92 76H420C442.091 76 460 93.9086 460 116V332C460 354.091 442.091 372 420 372H250L134 444V372H92C69.9086 372 52 354.091 52 332V116C52 93.9086 69.9086 76 92 76Z" fill="#0F1720"/>
+  <path d="M78 62H406C428.091 62 446 79.9086 446 102V318C446 340.091 428.091 358 406 358H236L120 430V358H78C55.9086 358 38 340.091 38 318V102C38 79.9086 55.9086 62 78 62Z" fill="#00C853" stroke="#0F1720" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M104 267L166 267L205 198L252 277L300 143L341 218L389 218" stroke="#0F1720" stroke-width="28" stroke-linecap="square" stroke-linejoin="miter"/>
+</svg>
